@@ -4,7 +4,7 @@ Cube slide is an endless runner game with a cool twist. You have to collect snow
 
 ## Gameplay
 
-Please visit [Shortech]{https://www.shortech.tech) to play!
+Please visit [Shortech](https://www.shortech.tech) to play!
 
 Controls:
 Jump - Spacebar
